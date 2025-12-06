@@ -30,13 +30,14 @@ Python, Pandas, NumPy
 
 Scikit-learn, XGBoost, CatBoost
 
-Matplotlib / Seaborn for EDA
+Matplotlib and Seaborn for EDA
 
-Streamlit / Flask for predictions UI
+Streamlit for predictions UI
 
 Jupyter Notebook for development
 
 📊 Modeling Workflow
+
 1️⃣ Exploratory Data Analysis
 
 Customer demographics
